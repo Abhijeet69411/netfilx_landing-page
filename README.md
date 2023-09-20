@@ -1,1 +1,1 @@
-# netfilx_landing-page
+# Netflix landing page clone using HTML, CSS  and JS 
